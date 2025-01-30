@@ -1,7 +1,1 @@
-{ xxx
-  "time_roja": "5 Min",
-  "time_azul": "13 Min",
-  "retraso_roja": 2,
-  "retraso_azul": 1,
-  "time_verde": "14:30"
-}
+{"name":"parada_12.json","path":"parada_12.json","sha":"57e7447fe7933b50a666fe05947575fa7cf60549","size":130,"url":"https://api.github.com/repos/Aytoarroyo/BusArroyo/contents/parada_12.json?ref=main","html_url":"https://github.com/Aytoarroyo/BusArroyo/blob/main/parada_12.json","git_url":"https://api.github.com/repos/Aytoarroyo/BusArroyo/git/blobs/57e7447fe7933b50a666fe05947575fa7cf60549","download_url":"https://raw.githubusercontent.com/Aytoarroyo/BusArroyo/main/parada_12.json","type":"file","content":"eyB4eHgNCiAgInRpbWVfcm9qYSI6ICI1IE1pbiIsDQogICJ0aW1lX2F6dWwi\nOiAiMTMgTWluIiwNCiAgInJldHJhc29fcm9qYSI6IDIsDQogICJyZXRyYXNv\nX2F6dWwiOiAxLA0KICAidGltZV92ZXJkZSI6ICIxNDozMCINCn0NCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Aytoarroyo/BusArroyo/contents/parada_12.json?ref=main","git":"https://api.github.com/repos/Aytoarroyo/BusArroyo/git/blobs/57e7447fe7933b50a666fe05947575fa7cf60549","html":"https://github.com/Aytoarroyo/BusArroyo/blob/main/parada_12.json"}}
