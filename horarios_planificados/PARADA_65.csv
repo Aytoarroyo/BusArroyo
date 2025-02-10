@@ -1,0 +1,3 @@
+trip_id;arrival_time;departure_time;stop_id;stop_sequence
+V1I;07:30:00;07:30:00;65;13
+V1V;14:10:00;14:10:00;65;1
