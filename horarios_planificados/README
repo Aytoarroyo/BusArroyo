@@ -1,0 +1,3 @@
+
+Si hay cambios de gtfs , hay que volver a procesar el archivo stop_times.txt para actualizar los cambios de los horarios planificados.
+Para ello utilizamos la macreo de la excel stop_times.xlsm
