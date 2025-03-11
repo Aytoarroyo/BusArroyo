@@ -1,63 +1,63 @@
 trip_id;arrival_time;departure_time;stop_id;stop_sequence;stop_headsign;pickup_type;drop_off_type;timepoint
-B1;00:42:00;00:42:00;58;33;Buho;0;0;0
-B2;01:42:00;01:42:00;58;33;Buho;0;0;0
-B3;02:38:00;02:38:00;58;33;Buho;0;0;0
-B4;03:38:00;03:38:00;58;33;Buho;0;0;0
-B5;00:42:00;00:42:00;58;33;Buho;0;0;0
-B6;01:42:00;01:42:00;58;33;Buho;0;0;0
-B7;02:38:00;02:38:00;58;33;Buho;0;0;0
-B8;03:38:00;03:38:00;58;33;Buho;0;0;0
-B9;05:08:00;05:08:00;58;33;Buho;0;0;0
-R1;07:16:00;07:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R2;07:46:00;07:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R3;08:19:00;08:19:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R4;08:46:00;08:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R5;09:19:00;09:19:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R6;09:46:00;09:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R7;10:19:00;10:19:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R8;10:46:00;10:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R9;11:19:00;11:19:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R10;11:46:00;11:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R11;12:18:00;12:18:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R12;12:46:00;12:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R13;13:18:00;13:18:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R14;13:46:00;13:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R15;14:18:00;14:18:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R16;14:56:00;14:56:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R17;15:18:00;15:18:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R18;15:47:00;15:47:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R19;16:18:00;16:18:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R20;16:46:00;16:46:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R21;17:16:00;17:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R22;17:48:00;17:48:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R23;18:16:00;18:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R24;18:47:00;18:47:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R25;19:16:00;19:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R26;19:47:00;19:47:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R27;20:16:00;20:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R28;20:47:00;20:47:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R29;21:16:00;21:16:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R30;21:44:00;21:44:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R31;22:13:00;22:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R32;22:44:00;22:44:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R33;23:14:00;23:14:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R34;09:13:00;09:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R35;10:13:00;10:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R36;11:13:00;11:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R37;12:13:00;12:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R38;13:13:00;13:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R39;14:13:00;14:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R40;15:13:00;15:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R41;16:13:00;16:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R42;17:13:00;17:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R43;18:13:00;18:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R44;19:13:00;19:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R45;20:13:00;20:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R46;21:13:00;21:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R47;22:13:00;22:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R48;23:13:00;23:13:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R49;10:01:00;10:01:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R50;13:01:00;13:01:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R51;17:01:00;17:01:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R52;20:01:00;20:01:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
-R53;22:01:00;22:01:00;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+B1;00:42;00:42;58;33;Buho;0;0;0
+B2;01:42;01:42;58;33;Buho;0;0;0
+B3;02:38;02:38;58;33;Buho;0;0;0
+B4;03:38;03:38;58;33;Buho;0;0;0
+B5;00:42;00:42;58;33;Buho;0;0;0
+B6;01:42;01:42;58;33;Buho;0;0;0
+B7;02:38;02:38;58;33;Buho;0;0;0
+B8;03:38;03:38;58;33;Buho;0;0;0
+B9;05:08;05:08;58;33;Buho;0;0;0
+R1;07:16;07:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R2;07:46;07:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R3;08:19;08:19;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R4;08:46;08:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R5;09:19;09:19;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R6;09:46;09:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R7;10:19;10:19;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R8;10:46;10:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R9;11:19;11:19;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R10;11:46;11:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R11;12:18;12:18;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R12;12:46;12:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R13;13:18;13:18;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R14;13:46;13:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R15;14:18;14:18;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R16;14:56;14:56;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R17;15:18;15:18;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R18;15:47;15:47;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R19;16:18;16:18;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R20;16:46;16:46;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R21;17:16;17:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R22;17:48;17:48;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R23;18:16;18:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R24;18:47;18:47;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R25;19:16;19:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R26;19:47;19:47;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R27;20:16;20:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R28;20:47;20:47;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R29;21:16;21:16;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R30;21:44;21:44;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R31;22:13;22:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R32;22:44;22:44;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R33;23:14;23:14;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R34;09:13;09:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R35;10:13;10:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R36;11:13;11:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R37;12:13;12:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R38;13:13;13:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R39;14:13;14:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R40;15:13;15:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R41;16:13;16:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R42;17:13;17:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R43;18:13;18:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R44;19:13;19:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R45;20:13;20:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R46;21:13;21:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R47;22:13;22:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R48;23:13;23:13;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R49;10:01;10:01;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R50;13:01;13:01;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R51;17:01;17:01;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R52;20:01;20:01;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0
+R53;22:01;22:01;58;32;La Flecha-Arroyo-La Vega-VA;0;0;0

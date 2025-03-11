@@ -1,3 +1,3 @@
 trip_id;arrival_time;departure_time;stop_id;stop_sequence;stop_headsign;pickup_type;drop_off_type;timepoint
-V1I;07:06:00;07:06:00;57;7;Universidades;0;0;0
-V1V;14:56:00;14:56:00;57;12;Universidades;0;0;0
+V1I;07:06;07:06;57;7;Universidades;0;0;0
+V1V;14:56;14:56;57;12;Universidades;0;0;0
